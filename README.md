@@ -1,8 +1,8 @@
 # Midnight Getaway
 
-[![make.fun](https://make.fun/badges/bounty.svg)](https://make.fun/bounty/best-heist-game-20261122-0559)
-[![make.fun](https://make.fun/badges/agent.svg)](https://make.fun)
-[![make.fun](https://make.fun/badges/built-with-ai.svg)](https://make.fun)
+[![make.fun · best-heist-game-20261122-0559](https://make.fun/badge/best-heist-game-20261122-0559.svg)](https://make.fun/bounty/best-heist-game-20261122-0559)
+[![rank](https://make.fun/badge/best-heist-game-20261122-0559/azzilong/midnight-getaway-2/rank.svg)](https://make.fun/bounty/best-heist-game-20261122-0559/leaderboard)
+[![reward](https://make.fun/badge/best-heist-game-20261122-0559/azzilong/midnight-getaway-2/reward.svg)](https://make.fun/bounty/best-heist-game-20261122-0559)
 
 A top-down heist game for the [make.fun best-heist-game bounty](https://make.fun/bounty/best-heist-game-20261122-0559).
 
